@@ -26,7 +26,7 @@ $ mklink compile_commands.json build\compile_commands.json
 
 ou executar o arquivo mklink_compile_commands.bat como administrador
 
-# Busca no Cpp Reference
+## Busca no Cpp Reference
 Após selecionar o tempo a ser buscado: Ctrl+Shift+P -> "Search: Cpp Reference"
 
 ## Ferramentas

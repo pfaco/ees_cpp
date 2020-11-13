@@ -1,3 +1,8 @@
 /01/.cache
 /01/build
 /01/compile_commands.json
+/02/.cache
+/02/.vscode
+/02/build
+/02/build/compile_commands.json
+/02/compile_commands.json
